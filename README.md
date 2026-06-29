@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/im-sturm-der-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Im Sturm der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/im-sturm-der-liebe/) |
+| **Get License** | [Commercial Licensing for Im Sturm der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/im-sturm-der-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Rote Lichter auf dem Weg, aber wir beide geben Gas
+> Dein Parfum in meiner Luft, Engel, das ist hier kein Spaß
+> Ich sehe das Verlangen ganz tief in deinem Gesicht
+> Diese kalte Stadt schläft, aber wir beide nicht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
