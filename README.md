@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/im-sturm-der-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Im Sturm der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/im-sturm-der-liebe/) |
+| **Get License** | [Get a Licensing Quote for Im Sturm der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/im-sturm-der-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3f87767dc67e4aa161e4a19aca47455018a6855b073d4c891fd17df3294840d1` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
